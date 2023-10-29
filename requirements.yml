@@ -1,0 +1,4 @@
+roles:
+  - name: geerlingguy.mysql
+    become: yes
+    src: https://github.com/geerlingguy/ansible-role-mysql/
